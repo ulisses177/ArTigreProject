@@ -17,6 +17,22 @@
 			"SupportedTargetPlatforms": [
 				"IOS"
 			]
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": true
+		},
+		{
+			"Name": "HoudiniNiagara",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
